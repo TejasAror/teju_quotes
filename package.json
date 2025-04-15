@@ -1,0 +1,27 @@
+{
+  "name": "teju_quotes",
+  "version": "1.0.0",
+  "description": "If you feel demotivate then use this package for motivational quotes",
+  "main": "build/index.js",
+  "type": "module",
+  "types": "build/index.d.ts",
+  "files": [
+    "build",
+    "README.md"
+  ],
+  "scripts": {
+    "build": "rm -rf build && tsc"
+  },
+  "keywords": [
+    "motivation_quotes",
+    "Nodejs",
+    "Nextjs",
+    "Reactjs"
+  ],
+  "author": "Tejas Arora",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.14.1",
+    "typescript": "^5.8.3"
+  }
+}
