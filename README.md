@@ -19,6 +19,6 @@ npm i teju_quotes
 **Now you can use it**
 
 ```js
-  import {getQuote} from "cwt_quotes"
+  import {getQuote} from "teju_quotes"
   console.log(getQuote())
 ```
